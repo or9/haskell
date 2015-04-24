@@ -1,7 +1,8 @@
 #Trying Haskell
 [Book](http://book.realworldhaskell.org/)  
 
-Some things from [haskell in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
+Some things from [haskell in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)  
+
 `fac.sh`
 ```
 ghci  
