@@ -16,5 +16,5 @@ fac 1024
 ghc -02 --make parallel.hs -threaded -rtsopts
 time ./A +RTS -N2
 ```
-Couldn't get the parallel.hs example to work as `brew` installed Haskell doesn't seem to have Control.Parallel
+Couldn't get the parallel.hs example to work as `brew` installed Haskell doesn't seem to have `Control.Parallel`
 
